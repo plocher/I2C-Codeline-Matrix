@@ -5,9 +5,11 @@ I2C Slave - Codeline Matrix - DFRobot ProMini with 2x 8x8 LED Matrixes for displ
 
   * 3.17" / Tyco Rail sized board
   * See [GitHub I2CMatrix Repo](https://github.com/plocher/I2CMatrix) for example Master and Slave source code.
-  * Arduino I2C testbed, 
-  * Fab'd YELLOW
-  * Functionally correct, cosmetically, Grove headers slightly misaligned
+
+Changes from 2.0:
 
 
+  * Fixed silkscreen rotation of board name (was 180 degrees off)
+  * moved Grove headers (power and I2C) down to align with other boards on SPCoast
+  * beefed up the power pin to power plane connections
 
