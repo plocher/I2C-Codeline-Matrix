@@ -6912,9 +6912,9 @@ Basic 0.1" spaced jumper. Use with breakaway headers.</description>
 <part name="CON3" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
 <part name="CON4" library="SPCoast" deviceset="CONNECTOR-GROVE-4P-2.0" device="-3470130P1"/>
 <part name="V3" library="supply2" deviceset="GND" device=""/>
-<part name="JP1" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK"/>
-<part name="JP2" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK"/>
-<part name="JP3" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK"/>
+<part name="JP1" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
+<part name="JP2" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
+<part name="JP3" library="SPCoast" deviceset="JUMPER-2" device="PTH_LOCK" value="0.100"/>
 <part name="V4" library="supply2" deviceset="GND" device=""/>
 <part name="VCC5" library="supply1" deviceset="VCCIO" device=""/>
 <part name="V5" library="supply2" deviceset="GND" device=""/>
